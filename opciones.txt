@@ -1,0 +1,10 @@
+Estas son las opciones del prebeplayer:
+
+	[p] Pausar  
+	[s] Detener 
+	[f] Saltar a la siguiente canción
+	[b] Retroceder una canción 
+	[q] Y salir del reproductor
+	[+] Subir el volumen
+	[-] Bajar el volumen
+	[h] Listar mas opciones del mpg123
